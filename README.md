@@ -63,7 +63,7 @@ $ npm run test:cov
 Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
 
 ## How to test the APIs
-go to devices-challenge and execute : npm run start:dev4
+go to devices-challenge and execute : npm run start:dev
 
 use postman to test the APIs, for example :
 Create Device :
